@@ -4,108 +4,54 @@
   <img src="./images/banner.gif" alt="Banner" width="100%">
 </p>
 
-<img src="https://img.shields.io/badge/ENGENHARIA-1F6FEB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AUTOMAÇÃO-6A5ACD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/INDÚSTRIA-2EA44F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/INOVAÇÃO-F59E0B?style=for-the-badge" />
+### Engenharia de Automação • Tecnologia • Inovação
 
-### Engenharia • Automação • Tecnologia • Inovação
+Sou **Engenheiro de Automação**, com experiência em automação, indústria, modelagem 3D e fabricação digital.
 
-Profissional da área de **Engenharia e Automação**, com experiência em ambientes industriais, tecnológicos e de inovação.
+Atualmente atuo no **SENAI-RS** e já trabalhei com **engenharia na John Deere** e **automação na TECNICON**.
 
-Atualmente atuo no **SENAI-RS**, com foco em tecnologia e educação profissional. Ao longo da minha trajetória, também tive experiências com **Automação na TECNICON** e **Product Engineering na John Deere**.
-
-Tenho interesse em desenvolver soluções que conectem **tecnologia, automação, indústria e inovação**.
+Aqui compartilho projetos, estudos e experimentos relacionados à tecnologia e ao desenvolvimento de soluções.
 
 ---
 
-## Sobre
-
-* 🎓 Engenheiro formado pela **FAHOR**
-* ⚙️ Experiência em **Automação**
-* 🏭 Experiência no setor industrial
-* 🤖 Interesse em **Robótica e IoT**
-* 💡 Interesse em **Tecnologia e Inovação**
-* 🎓 Atuação com **educação tecnológica no SENAI-RS**
-
----
-
-## Tecnologias & Áreas
-
-### Tecnologias
-
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,github" />
-</p>
-
-### Áreas de Interesse
+## Tecnologias
 
 <p>
 
-<img src="https://img.shields.io/badge/Automação-6A5ACD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Robótica-2EA44F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Engenharia-F59E0B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Indústria%204.0-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fusion%20360-000000?style=flat-square&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/Bambu%20Lab-00AE42?style=flat-square&logo=bambulab&logoColor=white" />
+<img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white" />
+<img src="https://img.shields.io/badge/Microcontrollers-00979D?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/IoT%20%26%20Embedded-000000?style=flat-square&logo=espressif&logoColor=white" />
 
 </p>
 
 ---
 
-## Experiência
-
-### SENAI-RS
-
-Atuação com **tecnologia e educação profissional**, contribuindo para iniciativas relacionadas ao desenvolvimento tecnológico e à indústria.
-
----
-
-### John Deere
-
-Experiência em **Product Engineering**, atuando no contexto de engenharia e desenvolvimento de produtos.
-
----
-
-### TECNICON
-
-Experiência na área de **Sistemas de Automação**, trabalhando com desenvolvimento de soluções e inovação tecnológica.
-
----
-
-## Projetos
-
-Projetos, experimentos e estudos relacionados a **automação, tecnologia, IoT e desenvolvimento de soluções**.
+## Especialidades
 
 <p>
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/Ver%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
+<img src="https://img.shields.io/badge/Automação-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/Prototipagem-2EA44F?style=flat-square" />
+<img src="https://img.shields.io/badge/Indústria%204.0-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Fabricação%20Digital-555555?style=flat-square" />
+
 </p>
 
 ---
 
 ## Formação
 
-### FAHOR — Faculdade Horizontina
-
-**Engenharia**
-
-2021 — 2025
+**FAHOR — Faculdade Horizontina**
+Engenharia de Automação · 2021 — 2025
 
 ---
 
-## Links
-
 <p>
-
 <a href="https://www.linkedin.com/in/diego-boufleuer-447055216/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 </p>
 
 </div>
